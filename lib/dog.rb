@@ -8,7 +8,7 @@ class Dog
 end
 
 # Instance Method Definition
-def bark
+def sit
   puts "The Dog is sitting"
 end
 end
