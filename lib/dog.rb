@@ -7,5 +7,11 @@ class Dog
   end
 end
 
+# Instance Method Definition
+def bark
+  puts "The Dog is sitting"
+end
+end
+
 fido = Dog.new
 fido.bark
